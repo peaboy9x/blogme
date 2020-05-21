@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 
 # If you have any plugins, put them here!
-gem "github-pages", "~> VERSION", group: :jekyll_plugins do
+gem "github-pages", "~> VERSION", group :jekyll_plugins do
     gem 'jekyll-feed'
     gem 'jekyll-sitemap'
     gem 'jekyll-paginate'
